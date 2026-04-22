@@ -11,5 +11,7 @@
 # 코드 별 역할
 
 demo_memory_eval.py 는 LLM의 기억 소실 현상을 평가하기 위한 코드입니다. 
-demo_summary_memory.py 는 LLM에 이전 대화 로그에 대한 요약이 포함되어 있을 때 기억 성능을 평가하기 위한 코드입니다. 
+
+demo_summary_memory.py 는 LLM에 이전 대화 로그에 대한 요약이 포함되어 있을 때 기억 성능을 평가하기 위한 코드입니다.
+
 demo_human_feedback.py 는 LLM 대화 로그 요약에 사람이 직접 요약 성능을 평가하기 위한 코드입니다.
